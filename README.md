@@ -11,7 +11,7 @@ Esse é um projeto de encurtador de links, que tem como funcionalidade criar um 
 
 ### Funcionalidades
 
-[x] Criação de link customizado
-[x] Título opcional do usuário
-[x] Link de uso único
-[ ] Mensagens de erro 
+- [x] Criação de link customizado
+- [x] Título opcional do usuário
+- [x] Link de uso único
+- [ ] Mensagens de erro 
